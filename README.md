@@ -2,7 +2,8 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/zefling.svg?style=social&label=@zefling)](https://twitter.com/zefling)
 
-![Zéfling's GitHub stats](https://github-readme-stats.vercel.app/api?username=zefling&show_icons=true&theme=radical) ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zefling&theme=radical)
+![Zéfling's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zefling&show_icons=true&theme=radical) 
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zefling&theme=radical)
 
 
 <!--
